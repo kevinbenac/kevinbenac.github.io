@@ -21,6 +21,15 @@
 
 </div>
 
+## Contact
+
+Email: benac@berkeley.edu
+
+## Resume
+
+<a href="CV_KB.pdf" target="_blank">📄 Download My Resume</a>
+
+
 ## Some Work Experience
 
 ### Data Science Internships
@@ -53,7 +62,3 @@
 #### Tutoring, Lausanne, Paris, Berkeley
 
 - Helped students from many different types of background either catching up with math or helping them understand statistical concepts more deeply.
-
-## Contact
-
-Email: benac@berkeley.edu
