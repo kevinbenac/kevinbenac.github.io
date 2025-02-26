@@ -23,7 +23,7 @@
 
 ## Contact
 
-Email: benac@berkeley.edu
+📧 Email: [benac@berkeley.edu](mailto:benac@berkeley.edu)
 
 ## Resume
 
