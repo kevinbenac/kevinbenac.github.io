@@ -49,16 +49,16 @@
 - Used radiomic data to predict survival of cancer patients and provided a methodology to suggest the right treatment according to the type of cancer.
 
 #### F.Hoffmann--La Roche AG (Roche), Basel, Switzerland
-
+*Statistician*
 - Compared different types of prior distributions present in the literature for using historical data and improve efficiency. Application to real-data for patients suffering from Diabetic Macular Edema in order to assess the efficacy of a new treatment.
 - Proposed an additional prior distribution that outperformed them.
 
 ### Teaching
 
-#### Teaching Assistant, Swiss Federal Institute of Technology, Université de Lausanne and UC Berkeley
-
+#### Swiss Federal Institute of Technology, Université de Lausanne and UC Berkeley
+*Teaching Assistant*
 - Significant teaching experience (12 semesters) teaching all kinds of math/probability and stats classes such as advanced linear algebra, real analysis, mathematics for med students, introduction to statistics and probability, statistical analysis of categorical data, biostatistics and data science.
 
-#### Tutoring, Lausanne, Paris, Berkeley
-
+#### Lausanne, Paris, Berkeley
+*Tutor*
 - Helped students from many different types of background either catching up with math or helping them understand statistical concepts more deeply.
