@@ -38,7 +38,7 @@
 *Data Science Intern* 
 - Developped a methodology that aimed at estimating incremental return on an ad spend (iROAS) using optimal matching and a trimmed estimator to get rid of few pairs in order to improve robustness while keeping good prediction power. Application to Sephora data.
 - Data was a large matched-pairs cluster-randomized experiment and the goal was to get a causal interpretation for the iROAS.
-- Filed a patent for the methodology used.
+- Filed a patent for the methodology used: https://patentimages.storage.googleapis.com/f4/78/22/ad20e7f62a140f/US11514274B2.pdf
 
 #### Google LLC, Mountain View, CA
 *Data Science Intern* 
